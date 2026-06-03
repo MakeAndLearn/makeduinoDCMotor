@@ -1,0 +1,4 @@
+makeduinoDCMotor	KEYWORD1
+motorTurnOn	KEYWORD2
+motorTurnOff	KEYWORD2
+motorTurnOffAll	KEYWORD2
